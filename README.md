@@ -1,4 +1,4 @@
-# Extractor de Humos DIY 💨
+# Extractor de Humos DIY 
 
 Un extractor de humos casero, funcional y muy económico diseñado para proteger tu salud al soldar componentes electrónicos. Este proyecto demuestra que, con creatividad y conocimientos de electrónica básica, es posible crear herramientas esenciales de laboratorio sin depender de una impresora 3D.
 
